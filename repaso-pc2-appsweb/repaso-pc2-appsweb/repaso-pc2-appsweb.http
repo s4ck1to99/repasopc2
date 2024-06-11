@@ -1,0 +1,6 @@
+@repaso_pc2_appsweb_HostAddress = http://localhost:5028
+
+GET {{repaso_pc2_appsweb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
